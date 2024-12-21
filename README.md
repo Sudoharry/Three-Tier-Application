@@ -1,4 +1,9 @@
 # To-Do-Notes (Three-Tier Application)
+![image](https://github.com/user-attachments/assets/8dc0673c-a016-436b-95ad-4b3389a04c30)
+---
+![image](https://github.com/user-attachments/assets/e2d3693b-b1bb-472e-8038-21712809863c)
+---
+![image](https://github.com/user-attachments/assets/aebb6280-b79a-4cad-8bcc-536af3a0f012)
 
 ## Description
 This is a **Three-Tier Application** designed to demonstrate a structured and scalable approach to software development. The project incorporates a **frontend, backend, and database** layer, implemented using modern technologies for efficient, maintainable, and scalable solutions.
