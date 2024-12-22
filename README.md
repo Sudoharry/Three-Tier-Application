@@ -82,7 +82,7 @@ project/
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone Third-Tier-Architecture
+   git clone Third-Tier-Application
    cd project
    ```
 
